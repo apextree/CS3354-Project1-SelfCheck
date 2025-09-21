@@ -9,7 +9,7 @@ import javax.swing.*;
 // Main class to demonstrate the UI
 public class ButtonDemo extends JFrame {
     public ButtonDemo() {
-        setTitle("Shape Button Inheritance Demo");
+        setTitle("Project 1: Your Name Here");
         setSize(500, 250);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new FlowLayout());
